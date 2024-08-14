@@ -1,5 +1,6 @@
-header{
+.header{
     height: 300px;
-    background: url(./images/travel-img.webp);
+    background: url(./images/travel-img.jpg);
     background-size: cover;
+    background-position: center center;
 }
